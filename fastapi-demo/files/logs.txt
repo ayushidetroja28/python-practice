@@ -1,0 +1,3 @@
+WRITE -> first.txt
+WRITE -> first.txt
+APPEND -> second.txt

@@ -1,0 +1,27 @@
+{
+  "rows": 43,
+  "columns": 1,
+  "columns_stats": {
+    "Industry": {
+      "dtype": "object",
+      "inferred_type": "categorical",
+      "missing": 0,
+      "missing_pct": 0.0,
+      "unique": 43,
+      "sample_values": [
+        "Accounting/Finance",
+        "Advertising/Public Relations",
+        "Aerospace/Aviation",
+        "Arts/Entertainment/Publishing",
+        "Automotive"
+      ],
+      "top_values": {
+        "Accounting/Finance": 1,
+        "Advertising/Public Relations": 1,
+        "Aerospace/Aviation": 1,
+        "Arts/Entertainment/Publishing": 1,
+        "Automotive": 1
+      }
+    }
+  }
+}
